@@ -19,5 +19,4 @@ If you want to update a project, go to the project in the explorer and click the
 The glTF Project Explorer tool uses Create React App to simplify maintenance.
 Please look at [DEVELOPING.md](DEVELOPING.md) for information on how Create
 React App works.
-Created by Jason Scott Heise
-Owned by Elon Musk 
+Created by Jason Heise
